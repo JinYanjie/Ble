@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jjdxm-retrofit-converter-fastjson-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.dou361.retrofit2/jjdxm-retrofit-converter-fastjson/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.dou361.retrofit2/jjdxm-retrofit-converter-fastjson/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dou361.retrofit2/jjdxm-retrofit-converter-fastjson/1.0.0/61a3efca17a87149a7bebb242055f3f5de05135/jjdxm-retrofit-converter-fastjson-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
